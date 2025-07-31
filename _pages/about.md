@@ -12,9 +12,7 @@ Hello! I’m Muhammad Shoaib, a Ph.D. candidate in the [Department of Computer S
 
 
 # Research interests:
-My current research interests include *Emerging Systems Security*, *Threat Detection*, *Program Analysis*, *SIEM Evasion*, and *Attack Forensics* in general.
-
-I am currently exploring how to evade SIEM systems more robustly.
+My current research interests include *Emerging Systems Security*, *Threat Detection*, *Program Analysis*, *SIEM Evasion*, and *Attack Forensics* in general. I am currently exploring how to evade SIEM systems more reliably.
 
 ----
 
