@@ -12,7 +12,7 @@ Hello! I’m Muhammad Shoaib, a Ph.D. candidate in the [Department of Computer S
 
 
 # Research interests:
-My current research interests include *Emerging Systems Security*, *Threat Detection*, *Program analysis*, *SIEM Evasion*, and *Attack Forensics* in general.
+My current research interests include *Emerging Systems Security*, *Threat Detection*, *Program Analysis*, *SIEM Evasion*, and *Attack Forensics* in general.
 
 I am currently exploring how to evade SIEM systems more robustly.
 
@@ -20,12 +20,13 @@ I am currently exploring how to evade SIEM systems more robustly.
 
 # News:
 
-- **Jul '25**: "*Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System*" has been accepted at ACM CCS '25.
+- **Jul '25**: "*Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System*" has been accepted at [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/).
 - **Jul '25**: Talk proposal for "*REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks*" has been accepted at MITRE's [ATT&CKcon 6.0](https://na.eventscloud.com/website/82912/).
+- **Jul '25**: Was awarded a travel grant to attend USENIX Security '25.
 - **May '25**: [CCI](https://cyberinitiative.org/) has recognized my [USENIX Security '25 paper]() by accepting it for their [Research Paper Showcase 2025](https://cyberinitiative.org/research/research-showcase/2025.html) under the *Resilience to Cyberattacks* track.
 - **April '25**: I have won the [Best Poster Award](https://cyberinitiative.org/cci-news/2025-news/best-poster-symposium.html#:~:text=Muhammad%20Shoaib%2C%20a%20computer%20science,posters%20from%20students%20across%20Virginia.) at [CCI Symposium 2025](https://cyberinitiative.org/events-programs/events-for-2025/cci-symposium-2025.html), selected from over 40 students representing diverse computer-science disciplines across Virginia.
 - **Feb '25**: Passed my qualifying exam defense. Now a Ph.D. candidate!
-- **Jan '25**: My first-authored paper "*Principled and Automated Approach for Investigating AR/VR Attacks*" has been accepted at [USENIX Security '25](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf).
+- **Jan '25**: My first-authored paper ["*Principled and Automated Approach for Investigating AR/VR Attacks*"](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) has been accepted at [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25).
 - **August '24**: Passed my qualifying exam proposal.
 - **July '24**: = "*Accurate and Scalable Detection and Investigation of Cyber Persistence Threats*" available on [arXiv](https://arxiv.org/pdf/2407.18832).
 - **April '23**: Was awarded a travel grant to attend IEEE S&P '23.
@@ -38,6 +39,6 @@ I am currently exploring how to evade SIEM systems more robustly.
 
 1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. In Proc. of the 34th USENIX Security Symposium (**SEC ’25**).
 
-2. **Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System**: Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. In Proc. of the 32nd ACM Conference on Computer and Communications Security (**CCS ’25**).
+2. Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System: Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. In Proc. of the 32nd ACM Conference on Computer and Communications Security (**CCS ’25**).
 
 3. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832*.
