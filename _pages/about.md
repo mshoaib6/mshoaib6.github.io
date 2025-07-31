@@ -34,9 +34,10 @@ I am currently exploring how to evade SIEM systems more robustly.
 
 ---
 
-# Publications:
-1. [*"Principled and Automated Approach for Investigating AR/VR Attacks"*](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf): <u>Muhammad Shoaib<u>, Alex Suh, and Wajih Ul Hassan, *In Proc. of the 34th USENIX Security Symposium (**SEC '25**)*
+# Publications
 
-2. *"Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System"*: Rui Zhao, <u>Muhammad Shoaib<u>, Viet Tung Hoang, and Wajih Ul Hassan *In Proc. of 32nd ACM Conference on Computer and Communications Security (**CCS '25**)*
+1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. In Proc. of the 34th USENIX Security Symposium (**SEC ’25**).
 
-3. [*"Accurate and Scalable Detection and Investigation of Cyber Persistence Threats"*](https://arxiv.org/pdf/2407.18832): Qi Liu, <u>Muhammad Shoaib<u>, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan *arXiv preprint arXiv:2407.18832*
+2. **Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System**: Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. In Proc. of the 32nd ACM Conference on Computer and Communications Security (**CCS ’25**).
+
+3. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832*.
