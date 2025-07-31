@@ -26,7 +26,8 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 - **Feb '25**: Passed my qualifying exam defense. Now a Ph.D. candidate!
 - **Jan '25**: My first-authored paper ["*Principled and Automated Approach for Investigating AR/VR Attacks*"](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) has been accepted at [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25).
 - **August '24**: Passed my qualifying exam proposal.
-- **July '24**: = "*Accurate and Scalable Detection and Investigation of Cyber Persistence Threats*" available on [arXiv](https://arxiv.org/pdf/2407.18832).
+- **July '24**: "*Accurate and Scalable Detection and Investigation of Cyber Persistence Threats*" available on [arXiv](https://arxiv.org/pdf/2407.18832).
+- **Jan '24**: The [Computing Research Association](https://cra.org/) has awarded my mentee Alex Suh an honorable mention in their [Outstanding Undergraduate Research Awards 2023-24](https://cra.org/crn/2024/01/outstanding-undergraduate-research-awards-winners-announcement/) for our [work](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) that was later accepted at [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25).
 - **April '23**: Was awarded a travel grant to attend IEEE S&P '23.
 - **October '22**: Won best new student poster award at the UVA CS research symposium.
 - **August '22**: Joined [DART Lab](https://dartlab.org/) as a Ph.D. Student.

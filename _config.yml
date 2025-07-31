@@ -29,7 +29,7 @@ author:
   location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   uri              : # URL
-  email            : "mshoaib@virginia.edu" 
+  email            : "mailto:mshoaib@virginia.edu" 
 
   # Academic websites
   academia         : # URL
