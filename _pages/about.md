@@ -36,7 +36,7 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 
 # Publications
 
-1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. *In Proc. of the 34th USENIX Security Symposium* (**SEC ’25**).
+1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) ([Slides](https://drive.google.com/file/d/1bDRPXNgO8WomfpugH9L8whs67M3kRMkR/view?usp=sharing)): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. *In Proc. of the 34th USENIX Security Symposium* (**SEC ’25**).
 
 2. Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System: Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**).
 
