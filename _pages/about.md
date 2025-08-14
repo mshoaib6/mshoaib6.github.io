@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "About me:"
 excerpt: "Hello! I’m Muhammad Shoaib, a Ph.D. candidate in the Department of Computer Science at the University of Virginia, advised by Professor Wajih Ul Hassan. My primary research focuses on attack forensics and threat detection."
