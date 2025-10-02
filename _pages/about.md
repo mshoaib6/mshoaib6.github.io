@@ -19,6 +19,8 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 
 # News:
 
+- **Oct '25**: Invited to serve as a reviewer for IEEE Transactions on Information Forensics & Security (TIFS).
+- **Aug '25**: Workshop paper accepted to the 1st XR Security Workshop, co-located with ACM MobiHoc 2025.
 - **Jul '25**: "*Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System*" has been accepted at [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/).
 - **Jul '25**: Talk proposal for "*REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks*" has been accepted at MITRE's [ATT&CKcon 6.0](https://na.eventscloud.com/website/82912/).
 - **Jul '25**: Was awarded a travel grant to attend USENIX Security '25.
@@ -39,6 +41,6 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 
 1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) ([Slides](https://drive.google.com/file/d/1bDRPXNgO8WomfpugH9L8whs67M3kRMkR/view?usp=sharing)): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. *In Proc. of the 34th USENIX Security Symposium* (**SEC ’25**).
 
-2. Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System: Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**).
+2. [Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System](https://dartlab.org/assets/pdf/nitro.pdf): Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**).
 
 3. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832*.
