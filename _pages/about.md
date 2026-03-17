@@ -19,6 +19,7 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 
 # News:
 
+- **Mar '26**: My first-authored paper "*Catch Me If You Can: Detector-Resistant Evasion via Semantics-Preserving Command Re-Realization*" was accepted at *IEEE Symposium on Security and Privacy (S&P) 2026* (acceptance rate ~12.6%).
 - **Oct '25**: Won Distinguished Paper Award 🏆 for our CCS'25 paper.
 - **Oct ’25**: Invited to give a talk at MITRE ATT&CKcon 6.0.  
 - **Oct ’25**: Attended MITRE’s Threat-Informed Defense training by the CTID Council.
@@ -41,12 +42,14 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 ---
 # Publications & Talks
 
-1. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) ([Slides](https://drive.google.com/file/d/1bDRPXNgO8WomfpugH9L8whs67M3kRMkR/view?usp=sharing)): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. *In Proc. of the 34th USENIX Security Symposium* (**SEC ’25**).
+1. Catch Me If You Can: Detector-Resistant Evasion via Semantics-Preserving Command Re-Realization: **Muhammad Shoaib**, Hare Sudhan Muthusamy, Tareq Alkhatib, and Wajih Ul Hassan. *In IEEE Symposium on Security and Privacy* (**S&P 2026**).
 
-2. [Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System](https://dartlab.org/assets/pdf/nitro.pdf): Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**) 🏆 *Distinguished Paper Award.*
+2. [Principled and Automated Approach for Investigating AR/VR Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) ([Slides](https://drive.google.com/file/d/1bDRPXNgO8WomfpugH9L8whs67M3kRMkR/view?usp=sharing)): **Muhammad Shoaib**, Alex Suh, and Wajih Ul Hassan. *In Proc. of the 34th USENIX Security Symposium* (**SEC ’25**).
 
-3. Investigating Immersive Attacks with REALITYCHECK. Demonstrated at the *1st XR Security Workshop (co-located with MobiHoc ’25).*  
+3. [Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System](https://dartlab.org/assets/pdf/nitro.pdf): Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**) 🏆 *Distinguished Paper Award.*
 
-4. REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks. Invited talk at *MITRE ATT&CKcon 6.0* (Oct 15, 2025).
+4. Investigating Immersive Attacks with REALITYCHECK. Demonstrated at the *1st XR Security Workshop (co-located with MobiHoc ’25).*  
 
-5. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832.*
+5. [REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks.](https://mitre.app.box.com/s/3lynwg8ebc80lolprvz144ev8n04p19v/file/2025243510316) Invited talk at *MITRE ATT&CKcon 6.0* (Oct 15, 2025).
+
+6. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832.*
