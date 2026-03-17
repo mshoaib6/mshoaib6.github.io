@@ -28,7 +28,7 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 - **Jul '25**: "*Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System*" has been accepted at [ACM CCS '25](https://www.sigsac.org/ccs/CCS2025/).
 - **Jul '25**: Talk proposal for "*REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks*" has been accepted at MITRE's [ATT&CKcon 6.0](https://na.eventscloud.com/website/82912/).
 - **Jul '25**: Was awarded a travel grant to attend USENIX Security '25.
-- **May '25**: [CCI](https://cyberinitiative.org/) has recognized my [USENIX Security '25 paper]() by accepting it for their [Research Paper Showcase 2025](https://cyberinitiative.org/research/research-showcase/2025.html) under the *Resilience to Cyberattacks* track.
+- **May '25**: [CCI](https://cyberinitiative.org/) has recognized my [USENIX Security '25 paper](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) by accepting it for their [Research Paper Showcase 2025](https://cyberinitiative.org/research/research-showcase/2025.html) under the *Resilience to Cyberattacks* track.
 - **April '25**: I have won the [Best Poster Award](https://cyberinitiative.org/cci-news/2025-news/best-poster-symposium.html#:~:text=Muhammad%20Shoaib%2C%20a%20computer%20science,posters%20from%20students%20across%20Virginia.) for my work on *Graph-based CVE Detection using Program Analysis and ML* at [CCI Symposium 2025](https://cyberinitiative.org/events-programs/events-for-2025/cci-symposium-2025.html), selected from over 40 students representing diverse computer-science disciplines across Virginia.
 - **Feb '25**: Passed my qualifying exam defense. Now a Ph.D. candidate!
 - **Jan '25**: My first-authored paper ["*Principled and Automated Approach for Investigating AR/VR Attacks*"](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-168-shoaib.pdf) has been accepted at [USENIX Security '25](https://www.usenix.org/conference/usenixsecurity25).
@@ -40,7 +40,7 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 - **August '22**: Joined [DART Lab](https://dartlab.org/) as a Ph.D. Student.
 
 ---
-# Publications & Talks
+# Selected Publications
 
 1. Catch Me If You Can: Detector-Resistant Evasion via Semantics-Preserving Command Re-Realization: **Muhammad Shoaib**, Hare Sudhan Muthusamy, Tareq Alkhatib, and Wajih Ul Hassan. *In IEEE Symposium on Security and Privacy* (**S&P 2026**).
 
@@ -48,8 +48,11 @@ My current research interests include *Emerging Systems Security*, *Threat Detec
 
 3. [Rethinking Tamper-Evident Logging: A High-Performance, Co-Designed Auditing System](https://dartlab.org/assets/pdf/nitro.pdf): Rui Zhao, **Muhammad Shoaib**, Viet Tung Hoang, and Wajih Ul Hassan. *In Proc. of the 32nd ACM Conference on Computer and Communications Security* (**CCS ’25**) 🏆 *Distinguished Paper Award.*
 
-4. Investigating Immersive Attacks with REALITYCHECK. Demonstrated at the *1st XR Security Workshop (co-located with MobiHoc ’25).*  
+4. Investigating Immersive Attacks with REALITYCHECK: **Muhammad Shoaib**, et al. Demonstrated paper at the *1st XR Security Workshop (co-located with MobiHoc ’25)*.
 
-5. [REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks.](https://mitre.app.box.com/s/3lynwg8ebc80lolprvz144ev8n04p19v/file/2025243510316) Invited talk at *MITRE ATT&CKcon 6.0* (Oct 15, 2025).
+5. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832.*
 
-6. [Accurate and Scalable Detection and Investigation of Cyber Persistence Threats](https://arxiv.org/pdf/2407.18832): Qi Liu, **Muhammad Shoaib**, Mati Ur Rehman, Kaibin Bao, Veit Hagenmeyer, and Wajih Ul Hassan. *arXiv preprint arXiv:2407.18832.*
+---
+# Industry Conferences & Talks
+
+1. [REALITYCHECK: An ATT&CK-Aligned, Principled, and Automated Investigation of AR/VR Attacks](https://mitre.app.box.com/s/3lynwg8ebc80lolprvz144ev8n04p19v/file/2025243510316). Invited talk at *MITRE ATT&CKcon 6.0* (Oct 15, 2025).
